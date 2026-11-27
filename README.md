@@ -15,13 +15,13 @@ Aplikasi mobile berbasis **Flutter** yang membantu mahasiswa dan anak kos mengol
 
 ## Tampilan Aplikasi (Screenshots)
 
-| Halaman Login | Halaman Register | Katalog Resep (GridView) | Detail Resep |
+| Splash Screen | Halaman Login | Halaman Register | Katalog Resep (GridView) |
 | :---: | :---: | :---: | :---: |
-| <img width="230" alt="login" src="https://github.com/user-attachments/assets/6ce28da4-6c4e-47e1-bbb7-827854648c49" /> | <img width="230" alt="register" src="https://github.com/user-attachments/assets/e195e747-5062-4dc0-82f6-5114845dc66f" /> | <img width="230" alt="katalog" src="https://github.com/user-attachments/assets/47bae167-e526-4f04-bb96-23e1ede68a13" /> | <img width="230" alt="detail_resep" src="https://github.com/user-attachments/assets/6a90ceed-4cf7-4bc5-b720-f640de0ee672" /> |
+| <img width="230" alt="Splash-screen" src="https://github.com/user-attachments/assets/c8ad15cc-00e6-4656-9519-9858752f8b9f" /> | <img width="230" alt="login" src="https://github.com/user-attachments/assets/6ce28da4-6c4e-47e1-bbb7-827854648c49" /> | <img width="230" alt="register" src="https://github.com/user-attachments/assets/e195e747-5062-4dc0-82f6-5114845dc66f" /> | <img width="230" alt="katalog" src="https://github.com/user-attachments/assets/47bae167-e526-4f04-bb96-23e1ede68a13" /> | 
 
-| Informasi Aplikasi | Racik AI (Input) | Racik AI (Hasil Resep) |
-| :---: | :---: | :---: |
-| <img width="230" alt="about" src="https://github.com/user-attachments/assets/92e4442b-7232-4249-835b-92ba79e74396" /> | <img width="230" alt="ai_proses_awal" src="https://github.com/user-attachments/assets/ec3463d7-babd-4a1b-8ad1-7584893b794a" /> | <img width="230" alt="ai_proses_akhir" src="https://github.com/user-attachments/assets/3fad2636-55f7-4886-b6b5-dacd68ec2e4c" /> |
+|  Detail Resep | Informasi Aplikasi | Racik AI (Input) | Racik AI (Hasil Resep) |
+| :---: | :---: | :---: | :---: |
+| <img width="230" alt="detail_resep" src="https://github.com/user-attachments/assets/6a90ceed-4cf7-4bc5-b720-f640de0ee672" /> | <img width="230" alt="about" src="https://github.com/user-attachments/assets/92e4442b-7232-4249-835b-92ba79e74396" /> | <img width="230" alt="ai_proses_awal" src="https://github.com/user-attachments/assets/ec3463d7-babd-4a1b-8ad1-7584893b794a" /> | <img width="230" alt="ai_proses_akhir" src="https://github.com/user-attachments/assets/3fad2636-55f7-4886-b6b5-dacd68ec2e4c" /> |
 
 ---
 
